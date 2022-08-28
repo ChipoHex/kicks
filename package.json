@@ -20,7 +20,6 @@
   },
   "prettier": "@shopify/prettier-config",
   "devDependencies": {
-    "@netlify/hydrogen-platform": "^1.0.0",
     "@shopify/prettier-config": "^1.1.2",
     "@shopify/stylelint-plugin": "^10.0.1",
     "@tailwindcss/typography": "^0.5.2",
